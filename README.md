@@ -1,11 +1,10 @@
 # MyfirstRepository
-br
+</s>
 # I am exploring all the aspects of:
-
+<br>
 # Artificial Inteligence
-
+<br>
 # Data Science
-
-# Deep learning
-
+<br>
+# Deep learnin<br>
 # Neural Network - Computer Vision
