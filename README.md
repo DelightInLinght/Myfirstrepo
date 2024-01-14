@@ -6,5 +6,6 @@
 <br>
 # Data Science
 <br>
-# Deep learnin<br>
+# Deep learning
+<br>
 # Neural Network - Computer Vision
