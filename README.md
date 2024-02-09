@@ -1,4 +1,4 @@
-# MyfirstRepository
+# MyFirstRepository
 </s>
 # I am exploring all the aspects of:
 <br>
